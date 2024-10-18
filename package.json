@@ -1,0 +1,15 @@
+{
+  "name": "sokoban-solver-main",
+  "version": "1.0.0",
+  "description": "> This is a web wrapper, playable sokoban game, editor and visualiser for sokoban solving, using Python through Web Assembly. All client side",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

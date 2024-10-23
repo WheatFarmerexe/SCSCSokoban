@@ -1,4 +1,4 @@
-Level: SDG-01 | RlUUdLLrdD
+Level: caleb-01 | RlUUdLLrdD
 
    ###
    #.#
@@ -9,7 +9,7 @@ Level: SDG-01 | RlUUdLLrdD
   #.#
   ###
 
-Level: SDG-02 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
+Level: caleb-02 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
 
  #######
 ##&##..#
@@ -18,7 +18,29 @@ Level: SDG-02 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
 ####  .#
    #####
 
-Level: SDG-03 | urRuulDrrrddLUruL
+Level: caleb-03 | ldRddrrdrrUUluUruLdddrUUddddllulluuRRllddrrdrruulUU
+
+   #####
+####...#
+# &##B #
+# B    #
+## ##  #
+##   #B#
+ ###   #
+   #####
+
+Level: caleb-04 | rDDDlddlluuRRUruulDDDllddrUluRluRR
+
+  ####
+  #& #
+### B#
+# BB.##
+# B.. #
+# B.. #
+#   ###
+#####
+
+Level: caleb-05 | urRuulDrrrddLUruL
 
  ####
  #  #
@@ -28,3 +50,69 @@ Level: SDG-03 | urRuulDrrrddLUruL
 #& .B #
 ###  ##
   ####
+
+Level: caleb-06 | ullDDLLururrrddLLrrddlUruuullddLdRuuurrddLLdlUruLLrdrrrdLL
+
+    ####
+  ##   #
+###    #
+#.  B#&#
+#..B B #
+###. B #
+  ###  #
+    ####
+
+Level: caleb-07 | DDldlddrUrUruLdrrddlUluuuulldRurDurD
+
+#######
+#  &  #
+# BBB #
+##...##
+# . . #
+# B B #
+#  #  #
+#######
+
+
+Level: caleb-08 | llullddRUrrruLdllluuRDuurrDDrdLuLUlldRlddrUddrrUULUdrruLdlDlluRluurDDldR
+
+ #####
+## . #
+# B.B##
+#  .B #
+# B. &#
+# B.B##
+## . #
+# ####
+
+Level: caleb-09 | dlluLdlluUUrurrdLLrDDLrrdrruLLdLLrUUUrurrdLLLruLdrDurDDLLrrrdLLL
+
+########
+#..    #
+#..B B #
+#B#BBB##
+#..B B&#
+#..    #
+########
+
+
+Level: caleb-10 | uLLLLulDDRurrrruullDurrddlLLLdlUrrrrrdddllULrULLurRuurrddLLLdlU
+
+   #####
+####   #
+#..#B# #
+#    B #
+#.B  #&#
+#..BB# #
+####   #
+   #####
+
+Level: caleb-11 | DuRlLUluRRRDrDDLdLLUUrDuRllUdrruulLddrU
+
+#######
+#. . .#
+# BBB #
+#.B&B.#
+# BBB #
+#. . .#
+#######

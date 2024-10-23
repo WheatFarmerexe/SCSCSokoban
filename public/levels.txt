@@ -1,4 +1,15 @@
-Level: SDG-01 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
+Level: SDG-01 | RlUUdLLrdD
+
+   ###
+   #.#
+#### #
+#. BB###
+### &B.#
+  #B####
+  #.#
+  ###
+
+Level: SDG-02 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
 
  #######
 ##&##..#
@@ -7,7 +18,7 @@ Level: SDG-01 | DRdRRUrDllluRRlllldRRRdrUrUdlluR
 ####  .#
    #####
 
-Level: SDG-02 | urRuulDrrrddLUruL
+Level: SDG-03 | urRuulDrrrddLUruL
 
  ####
  #  #
@@ -17,14 +28,3 @@ Level: SDG-02 | urRuulDrrrddLUruL
 #& .B #
 ###  ##
   ####
-
-Level: SDG-03 | uLLLLulDDRurrrruullDurrddlLLLdlUrrrrrdddllULrULLurRuurrddLLLdlU
-
-   #####
-####   #
-#..#B# #
-#    B #
-#.B  #&#
-#..BB# #
-####   #
-   #####
